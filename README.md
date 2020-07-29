@@ -13,5 +13,6 @@ I’m a software engineer with extensive experience in software design and devel
 
 - UNIX Shell / C++ / SQL / JavaScript / HTML / CSS / PHP.
 - NodeJS / ReactJS / Laravel.
+- Git / Docker.
 
 > If you want to get in touch or collaborate on a project, email me at mdbllhnf@gmail.com.
