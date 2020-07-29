@@ -2,14 +2,14 @@
 
 I’m a software engineer with extensive experience in software design and development, I have a versatile profile and adapt quickly to new environments, I specialize in creating web applications for clients ranging from individuals to large businesses.
 
-## General Skills 💎
+## Primary Skills 💎
 
 - Software design, development, testing & maintenance.
 - Microservices architecture & deployment.
 - UNIX administration.
 - Relational database administration.
 
-## Preferred Languages & Frameworks 🛠️
+## Primary Languages, Tools & Frameworks 🛠️
 
 - UNIX Shell / C++ / SQL / JavaScript / HTML / CSS / PHP.
 - NodeJS / ReactJS / Laravel.
