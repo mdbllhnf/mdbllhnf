@@ -11,7 +11,7 @@ I’m a software engineer with extensive experience in software design and devel
 
 ## Primary Languages, Tools & Frameworks 🛠️
 
-- UNIX Shell / C++ / SQL / JavaScript / HTML / CSS / PHP.
+- C++ / JavaScript / TypeScript / SQL / UNIX Shell / HTML / CSS / PHP.
 - NodeJS / ReactJS / Laravel.
 - Git / Docker.
 
